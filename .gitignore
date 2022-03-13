@@ -1,4 +1,7 @@
  README.md
+
+__pycache__/program.cpython-38.pyc
+__pycache__/test_program.cpython-38-pytest-7.0.1.pyc
 venv/lib64
 venv/pyvenv.cfg
 venv/bin/activate
